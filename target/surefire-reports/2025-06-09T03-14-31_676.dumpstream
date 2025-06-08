@@ -1,0 +1,5 @@
+# Created at 2025-06-09T03:14:31.946
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Study\Camunda\Microservice\c8-develop-first-worker-lab\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
